@@ -3,6 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
+    margin-top:10px;
     background-color: rgb(189, 225, 122);
 }
 
